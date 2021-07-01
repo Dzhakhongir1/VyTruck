@@ -1,1 +1,6 @@
 add directly from git hub.com to simulate  remote repo has commit we do not have loccaly 
+
+Doing more work nad trying to pull it to local repo eventually 
+
+
+
